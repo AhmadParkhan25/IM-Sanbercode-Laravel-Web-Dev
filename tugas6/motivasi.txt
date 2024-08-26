@@ -1,0 +1,8 @@
+Motivasi dalam mengikuti Bootcamp:
+    Saya ingin mengikuti Bootcamp karena saya ingin meningkatkan kemampuan saya dalam bidang pemograman 
+    terutaman dalam pembuatan web, dan Laravel Framework untuk membangun sebuah website yang ramai di gunakan.
+
+Harapan mengikuti Bootcamp:
+    Harapan saya setelah mengikuti Bootcamp ini adalah untuk melatih dan menjadikan saya mahir 
+    dalam pembuatan sebuah website dengan menggunakan Framework Laravel, dan ilmu yang saya pelajari bisa bermanfaat
+    untuk orang lain.
