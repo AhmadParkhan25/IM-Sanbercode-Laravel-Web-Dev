@@ -2,4 +2,4 @@ Data Peserta Sanbercode Bootcamp Laravel Web Dev
 1. Nama: Ahmad Parkhan
 2. Email: ahmadparkhan5555@gmail.com
 3. Akun Gitlab/Github: https://github.com/AhmadParkhan25
-4. Akun Telegram: Ahmad parkhan
+4. Akun Telegram: @parkhaN12
