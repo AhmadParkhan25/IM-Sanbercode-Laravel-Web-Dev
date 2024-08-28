@@ -60,8 +60,8 @@ function balikKata($string1) {
 }
 
 function reverseString($string) {
-    $balikKata = balikKata($string);
-    echo $balikKata . "<br>";
+    $balikKata2 = balikKata($string);
+    echo $balikKata2 . "<br>";
 }
 
 
