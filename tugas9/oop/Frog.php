@@ -5,7 +5,7 @@ require_once 'animal.php';
 class Frog extends Animal{
 
     public function jump(){
-        echo "Jump : hop hop <br><br>";
+        echo "Jump : Hop Hop <br><br>";
     }
 }
 
