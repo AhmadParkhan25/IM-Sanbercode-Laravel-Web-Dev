@@ -40,3 +40,6 @@ Route::put('/category/{id}', [CategoryController::class, 'update']);
 
 // menghapus data category dengan id tertentu
 Route::delete('/category/{id}', [CategoryController::class, 'destroy']);
+
+
+

@@ -6,6 +6,10 @@ use Illuminate\Http\Request;
 
 class CategoryController extends Controller
 {
+    public function index(){
+        $categories = DB::table('categories')->get();
+        return view('category.tampil', ['categories' => $categories]);
+    }
 
     public function create(){
         return view('category.tambah');
@@ -21,11 +25,6 @@ class CategoryController extends Controller
         ]);
 
         return redirect('/category');
-    }
-
-    public function index(){
-        $categories = DB::table('categories')->get();
-        return view('category.tampil', ['categories' => $categories]);
     }
 
     public function show($id){
